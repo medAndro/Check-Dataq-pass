@@ -7,8 +7,8 @@
 // @match        https://www.dataq.or.kr/www/mypage/accept/result.do
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=dataq.or.kr
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/medAndro/Check-Dataq-pass/main/Check-Dataq-pass.js
-// @downloadURL  https://raw.githubusercontent.com/medAndro/Check-Dataq-pass/main/Check-Dataq-pass.js
+// @updateURL    https://raw.githubusercontent.com/medAndro/Check-Dataq-pass/main/Check-Dataq-pass.user.js
+// @downloadURL  https://raw.githubusercontent.com/medAndro/Check-Dataq-pass/main/Check-Dataq-pass.user.js
 // @supportURL   https://github.com/medAndro/Check-Dataq-pass/issues
 // ==/UserScript==
 
